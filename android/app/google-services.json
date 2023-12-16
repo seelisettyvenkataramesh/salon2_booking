@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392585398177",
+    "project_id": "scissors-7a405",
+    "storage_bucket": "scissors-7a405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392585398177:android:0552a159225271dfe16de0",
+        "android_client_info": {
+          "package_name": "com.example.salon2_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1Ab4c_Eo9wG_FH8vd082dtWmaehG-c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
